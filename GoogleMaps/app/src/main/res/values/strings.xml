@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Group40_HW08</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="apiKey">AIzaSyCWgx5hYKbV9gh9sw3ZVltuRyAUtnIozh0</string>
+    <string name="startLabel">Start</string>
+    <string name="placePrefix">place_id:</string>
+    <string name="typeLabel">type</string>
+    <string name="restaurantLabel">restaurant</string>
+    <string name="gasStationLabel">gas_station</string>
+    <string name="selectStartLocationLabel">Select Start Location</string>
+    <string name="locationLabel">location</string>
+    <string name="endLabel">End</string>
+    <string name="originLabel">origin</string>
+    <string name="destinationLabel">destination</string>
+    <string name="radiusLabel">radius</string>
+    <string name="keyLabel">key</string>
+</resources>
